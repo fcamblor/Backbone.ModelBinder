@@ -1,5 +1,5 @@
 {
-  "name": "backbone.modelBinder",
+  "name": "backbone.modelbinder",
   "version": "0.1.6",
   "main": ["Backbone.ModelBinder.js"],
   "dependencies"  : {
